@@ -12,13 +12,13 @@ Project Euler is ([projecteuler.net](https://projecteuler.net) ) a series of **c
 
 If you haven't resolved the problems yes, don't enter to the next link.
 
-Numerical Answers
+[Numerical Answers](https://github.com/alecodesdancer/project-euler/blob/master/numerical-answers.md)
 
 ### Do you want to compare your code?
 
 The following link is the compilation of the code solution I implemented for each problem.
 
-
+[Code Solution](https://github.com/alecodesdancer/project-euler/tree/master/code-solution)
 
 ### To each his own
 
