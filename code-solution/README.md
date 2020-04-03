@@ -8,3 +8,7 @@ This is a compilation of the code solution I implemented for each problem.
 4. [Largest palindrome product](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/4.js)
 5. [Smallest multiple](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/5.js)
 6. [Sum square difference](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/6.js)
+7. [10001st prime](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/7.js)
+8. [Largest product in a series](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/8.js)
+9. [Special Pythagorean triplet](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/9.js)
+10. [Summation of primes](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/10.js)
