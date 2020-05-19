@@ -17,12 +17,10 @@ function productNumbers(position, digits) {
 
 const digit = 13;
 let higherProduct = 1;
-let higherPosition = 0;
 for(let j=0; j< numbers.length - digit; j++) {
     const prod = productNumbers(j,digit);
     if(prod > higherProduct) {
         higherProduct = prod;
-        higherPosition = j;
     }
 }			
 
