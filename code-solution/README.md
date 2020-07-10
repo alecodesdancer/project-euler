@@ -14,3 +14,5 @@ This is a compilation of the code solution I implemented for each problem.
 10. [Summation of primes](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/10.js)
 11. [Largest product in a grid](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/11.js)
 12. [Highly divisible triangular number](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/12.js)
+13. [Large sum](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/13.js)
+14. [Longest Collatz sequence](https://github.com/alecodesdancer/project-euler/blob/master/code-solution/14.js)
